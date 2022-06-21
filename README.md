@@ -1,3 +1,5 @@
+Link to portfolio https://jayanth-neu.github.io/portfolio/
+
 Created a Professional portfolio which has the sections - Home, Resume, portfolio and Contact me.
 Each page is designed using bootstrap, css, js and html
 
